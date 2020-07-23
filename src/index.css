@@ -1,0 +1,36 @@
+.nom {
+  color: blueviolet;
+  margin-right: 150px;
+  font-style: italic;
+  font-size: 20px;
+  display: flex;
+  text-align: center;
+  font-family: cursive;
+  font-weight: bold;
+}
+.lieu {
+  color: violet;
+  font-family: cursive;
+  font-weight: bold;
+  font-size: 20px;
+}
+.photo {
+  border: 5px black solid;
+  padding: 20px;
+  width: 400px;
+  display: flex;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.bonjour {
+  border: 5px plum solid;
+  margin-left: 100px;
+  margin-right: 100px;
+  text-align: center;
+  background-color: aquamarine;
+  font-family: cursive;
+}
+body {
+  background-color: beige;
+}
