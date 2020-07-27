@@ -1,4 +1,3 @@
-//cc
 import React from "react";
 import FullName from "./profile/FullName";
 import Adress from "./profile/Adress";
